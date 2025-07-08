@@ -1,0 +1,17 @@
+../Core/Src/main.c:86:6:microDelay	2
+../Core/Src/main.c:92:9:DHT11_Start	5
+../Core/Src/main.c:123:9:DHT11_Read	7
+../Core/Src/main.c:149:6:UART_Send	1
+../Core/Src/main.c:155:6:UART_Receive	1
+../Core/Src/main.c:161:6:ProcessReceivedData	2
+../Core/Src/main.c:171:6:ARM_Process	8
+../Core/Src/main.c:281:6:Set_Servo_Angle	4
+../Core/Src/main.c:290:6:HAL_UART_RxCpltCallback	4
+../Core/Src/main.c:318:5:main	3
+../Core/Src/main.c:412:6:SystemClock_Config	3
+../Core/Src/main.c:452:13:MX_I2C1_Init	2
+../Core/Src/main.c:486:13:MX_TIM2_Init	8
+../Core/Src/main.c:553:13:MX_TIM3_Init	6
+../Core/Src/main.c:612:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:645:13:MX_GPIO_Init	1
+../Core/Src/main.c:684:6:Error_Handler	1
